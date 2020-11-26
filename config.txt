@@ -1,0 +1,12 @@
+languageList=en-US
+linkToReplace=xxxxxxxxxxxxxxxx
+siteURL=https://www.pampers.com/
+cloudinarySiteURL=xxxxxxxxxxxxxxxxxxxx
+articleTemplate={9D528F48-D6F5-4899-A8DD-3897DA48C675}
+subContentTemplate={0442FC5A-47CE-4B23-86F2-6B2B576CACD4}|{B36CB9B4-6D51-43DC-AF10-7EE7ACF9E2EE}|{41ED89A4-808D-4B4A-A4E3-219FE3D94946}|{EB74E83B-0438-4CD2-B7AC-3E4C9DC490BA}|{414148D8-DBDE-49CD-9258-9CE5F2C3D099}|{E2001936-764C-48C5-BBCA-93A9884F0235}|{A1F63650-3DB3-4BC0-A6F2-AB3207826627}|{C1401849-911C-459A-8BFB-59E92C9739F4}|{109BEC24-0A50-4DBA-87C2-724B88F0AA17}|{852225BB-1AB3-48AE-84DC-739CBE6EEE17}|{DBC2598A-E707-4874-A1D8-082C3C65BC73}|{0113F8CE-B4AE-4ADF-BBD2-390E230C92B3}
+referenceTemplate={54C9868B-B1BD-4CA8-ABE6-1A279130E48E}|{E63AE3BF-5DC9-4C7F-9DE1-17928B85D925}|{37FFEB33-A60F-46CB-9763-7F2D7F909B2C}|{76CB8817-0AE2-4531-83BD-67D1F743BD4C}|{5350E9BC-0432-4752-A9F4-8BCDE082F248}
+Fields=Breadcrumb Title:false:Symbol|Page Title:false:Symbol|Title:false:Symbol|Meta Title:false:Symbol|Meta Description:false:Symbol|Primary Image:false:Asset|Selected Category:false:Entry|Subgroup:false:Entry|Author Name:false:Entry|Article Sources:false:Text|Sources Title:false:Symbol|Subtitle:false:Symbol|Is A Baby Development Article:false:Symbol|Footer Navigation Image Desktop:false:Asset|Hero Image Desktop:false:Asset|Landing Page CTA Number Label:false:Symbol
+ParentPath=xxxxxxxxxxxxxxxxxx
+PathContentRepo=xxxxxxxxxx
+articlePath=artikel
+siteSettings=xxxxxxxxxx
